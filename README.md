@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Muhammad Anwar, a CS Student @UMN-TC.
+I'm Muhammad Anwar, a CS Student @UMN-TC.
 
 - 🌱 I’m currently learning OpenGL and Node.js
 - 📫 How to reach me: mhakya3@gmail.com

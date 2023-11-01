@@ -6,7 +6,7 @@ This is Muhammad Anwar, a CS Student @UMN-TC.
 - 📫 How to reach me: mhakya3@gmail.com
 - 😄 Pronouns: He/Him/His
 
-<img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarwx&layout=compact&exclude_repo=toastonly">
+<img class="fit-picture" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anwarwx&layout=compact">
 
 <!--
 **anwarwx/anwarwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
